@@ -1,0 +1,171 @@
+.container {}
+
+
+.background {
+    background-image: url("./IMG/bg-hero-desktop.svg");
+    height: 75vh;
+    background-color: rgb(250, 255, 255);
+
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+     font-family: sans-serif;
+     font-size: 18px;
+}
+
+.inner {
+    width: 85%;
+    margin: 0px auto;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.pic {
+    width: 35rem;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.pic img {
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.background .inner .d-flex .pic2 .wow {
+    padding: 20px;
+    padding-left: 0.01%;
+    padding-top: 10%;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.background .inner .d-flex .pic button {
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding-left: 20px;
+    float: right;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    margin: 15px;
+    width: 30%;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+
+
+.background .inner .d-flex .pic2 h1 {
+    font-weight: 600px;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.background .inner .d-flex .pic2 p {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.background .inner .d-flex .pic2 button {
+    padding: 10px;
+    color: #fff;
+    background-color: rgb(238, 90, 206);
+    border: 1px solid rgb(238, 90, 206);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 50%;
+    height: 10%;
+    font-family: sans-serif;
+    font-size: 18px;
+
+
+    /* second sides  the three colums*/
+
+}
+
+.big {
+    margin: 3em;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #fff;
+    border-radius: 7px;
+    padding: 25px;
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.1);
+    font-family: sans-serif;
+    font-size: 18px;
+}
+/* the middle one*/
+#middle{
+    
+    position: absolute;
+    border: 1px solid #fff;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    margin-top: 50%;
+    height: 150px;;
+    width: 50%;
+    background-color: white;
+    text-align: center;
+    text-size-adjust: 10px;
+     margin: 8px;
+     padding: 10px;
+     margin-left: 30%;
+     padding-top: 10px;
+     font-family: sans-serif;
+     font-size: 18px;
+    
+
+}
+.pics2{
+    padding: 10px;
+    color: #fff;
+    background-color: rgb(238, 90, 206);
+    border: 1px solid rgb(238, 90, 206);
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    width: 40%;
+    height: 50%;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+
+
+
+
+/*   the footer part*/
+
+.row-footer{
+    background-color: rgb(7, 45, 59);
+    height: 65vh;
+    color: #fff;
+    margin-top: 10%;
+    
+
+
+
+    /* second sides  the three colums*/
+
+}
+
+
+.column {
+    float: left;
+    padding: 8%;
+    margin-top: 10%;
+    font-family: sans-serif;
+     font-size: 12px;
+     padding-right: 5%;
+   
+
+    
+
+}
